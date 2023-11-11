@@ -1,0 +1,16 @@
+.container {
+  padding: 5%;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.container__balance {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.erc__input {
+  display: flex;
+  gap: 12px;
+  margin-top: 30px;
+}

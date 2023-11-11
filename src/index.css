@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: radial-gradient(circle 975px at 2.6% 48.3%, rgb(50, 60, 197) 0%, rgb(104, 185, 223) 99.7%);
+}
